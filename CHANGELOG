@@ -2,4 +2,4 @@ v0.1.0:
     date:2021-04-13
     changes:
       -  初始化版本
-      -  提供基本的 $dispatch 和 $broadcast 方法
+      -  提供基本的 $upEmitter 和 $downEmitter 方法
