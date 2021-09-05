@@ -1,5 +1,5 @@
 # vue-event-emitter
-为vue2.js设计的事件传播系列方法。
+为vue.js设计的事件传播系列方法。
 
 <p>
   <a href="https://hai2007.gitee.io/npm-downloads?interval=7&packages=vue-event-emitter"><img src="https://img.shields.io/npm/dm/vue-event-emitter.svg" alt="downloads"></a>
